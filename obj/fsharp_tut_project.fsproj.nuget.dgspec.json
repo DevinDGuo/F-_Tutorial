@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSCI350\\fsharp_tut_project\\fsharp_tut_project.fsproj": {}
+    "C:\\CSCI350\\fsharp_project\\F-_Tutorial\\fsharp_tut_project.fsproj": {}
   },
   "projects": {
-    "C:\\CSCI350\\fsharp_tut_project\\fsharp_tut_project.fsproj": {
+    "C:\\CSCI350\\fsharp_project\\F-_Tutorial\\fsharp_tut_project.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSCI350\\fsharp_tut_project\\fsharp_tut_project.fsproj",
+        "projectUniqueName": "C:\\CSCI350\\fsharp_project\\F-_Tutorial\\fsharp_tut_project.fsproj",
         "projectName": "fsharp_tut_project",
-        "projectPath": "C:\\CSCI350\\fsharp_tut_project\\fsharp_tut_project.fsproj",
+        "projectPath": "C:\\CSCI350\\fsharp_project\\F-_Tutorial\\fsharp_tut_project.fsproj",
         "packagesPath": "C:\\Users\\devin\\.nuget\\packages\\",
-        "outputPath": "C:\\CSCI350\\fsharp_tut_project\\obj\\",
+        "outputPath": "C:\\CSCI350\\fsharp_project\\F-_Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devin\\AppData\\Roaming\\NuGet\\NuGet.Config",
